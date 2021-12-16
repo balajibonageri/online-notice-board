@@ -10,19 +10,19 @@
 	
 	
 	<div class="row">
-		<div class="col-sm-4">Enter YOur Email</div>
+		<div class="col-sm-4">Enter Your Email</div>
 		<div class="col-sm-5">
 		<input type="email" name="e" class="form-control"/></div>
 	</div>
 	
 	<div class="row">
-		<div class="col-sm-4">Enter YOur Mobile</div>
+		<div class="col-sm-4">Enter Your Mobile</div>
 		<div class="col-sm-5">
 		<input type="password" name="p" class="form-control"/></div>
 	</div>
 	
 	<div class="row">
-		<div class="col-sm-4">Enter YOur Message</div>
+		<div class="col-sm-4">Enter Your Message</div>
 		<div class="col-sm-5">
 		<input type="password" name="p" class="form-control"/></div>
 	</div>
@@ -39,10 +39,10 @@
 		<div class="col-md-4">
 		<h2>Contact us</h2>
 		
-		Name: Balaji Bonagerir<br/>
+		Name: Balaji Bonageri<br/>
 		Mobile: 7019176530<br/>
-		Email:bldecse.bsb@gmail.com<br/>
-		Website: <a href="balajibonageri.blogspot.com">Balaji Bonageri</a>
+		Email: bldecse.bsb@gmail.com<br/>
+		Website: <a href="https://www.instagram.com/balaji_bonageri/"\>Balaji Bonageri</a>
 		</div>
 	</div>
 	
